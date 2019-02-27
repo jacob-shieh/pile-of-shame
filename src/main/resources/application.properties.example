@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:postgresql://localhost/test
+spring.datasource.username=test
+spring.datasource.password=
+spring.jpa.generate-ddl=true
