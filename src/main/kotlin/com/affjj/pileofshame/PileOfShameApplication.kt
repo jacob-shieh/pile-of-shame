@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class PileOfShameApplication
 
 fun main(args: Array<String>) {
-	runApplication<PileOfShameApplication>(*args)
+    runApplication<PileOfShameApplication>(*args)
 }
